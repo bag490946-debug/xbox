@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import quote, unquote
 
 ADMIN_ID = 7265489223
-BOT_TOKEN = "8333811021:AAHR3R-Ns-cZytz15TbFcaDAN_4o"
+BOT_TOKEN = "8333811021:AAHR3R-Ns-cZytz1J-gCywl5TbFcaDAN_4o"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 checking_active = False
